@@ -1,0 +1,8 @@
+place the file to "stage"
+#git add fileName
+#git add fileName2
+commit the files to the repository
+#git commit -m "message"
+
+push the files to the repository
+#git push
